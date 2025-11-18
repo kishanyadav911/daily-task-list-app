@@ -45,7 +45,18 @@ function App() {
           />
         </div>
         <footer className="text-center mt-12 text-textSecondary text-sm">
-          <p>Designed by Bolt. Powered by React &amp; Tailwind CSS.</p>
+          <p>
+            Design by{' '}
+            <a
+              href="https://kishanyadav.online"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-medium text-primary hover:underline transition-colors duration-300"
+            >
+              Kishan Yadav
+            </a>
+            .
+          </p>
         </footer>
       </main>
     </div>
