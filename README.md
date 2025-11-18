@@ -43,12 +43,12 @@ You need to have [Node.js](https://nodejs.org/) (version 18 or later) and [npm](
 
 1.  **Clone the repository** (or download the project files):
     ```sh
-    git clone https://github.com/your-username/zenith-task-app.git
+    git clone https://github.com/kishanyadav911/daily-task-list-app
     ```
 
 2.  **Navigate to the project directory**:
     ```sh
-    cd zenith-task-app
+    cd daily-task-list-app
     ```
 
 3.  **Install dependencies**:
